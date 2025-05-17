@@ -336,7 +336,7 @@ translate([35.25,1.5,-3])linear_extrude(height=4)circle(d=8,$fn=360);//left butt
 translate([69.25,1.5,-3])linear_extrude(height=4)circle(d=8,$fn=360);//right button hole 1
         //////WORDS
 rotate([0,180,180])translate([-80,24,2])linear_extrude(1)text("AHMI A8");
-rotate([0,180,180])translate([-80,-33,2])linear_extrude(1)text("3dprintedinthe.us");
+rotate([0,180,180])translate([-80,-33,2])linear_extrude(1)text("HH Systems");
     }
 }
 module z_back(ridge){
