@@ -1,3 +1,5 @@
+Hardware
+
 4   m4 10mm
 1   m4 16mm
 96  m4 6mm
@@ -8,3 +10,19 @@
 2 sk8board bearing
 6 L brackets
 
+2040 extrusion
+
+2 @ 440mm
+2 @ 340
+3 @ 313
+Note: These extruision cuts are aproximate. They can be within +-~2mm and you will be fine. these are just the measurments of the kits we sell. 
+
+Jigs
+you will need one of each of the following jigs
+faceplate_head
+faceplate_hole
+faceplate_tap
+Mast_head
+mast_hole
+top_head
+top_hole
