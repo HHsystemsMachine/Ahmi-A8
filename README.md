@@ -3,7 +3,8 @@ The Ahmi A8 is a metal 3d printer frame designed specifically to be a full frame
 
 # openscad playground
 
-You can edit the [Ahmi A8](https://theherrerahomestead.farm/go/ahmi-a8) on the openscad playground. //this is a link (that redirects through my website) to the file that can be edited in the browser
+You can edit the [Ahmi A8](https://theherrerahomestead.farm/go/ahmi-a8) on the openscad playground. //this is a link (that redirects through my website) to the file that can be edited in the browser. 
+I provide links to the openscad playground largly becasue it renders the models way faster than a computer does. there is a whole interesting article to be found on the subject and how they did it.
 
 
 # Jigs
