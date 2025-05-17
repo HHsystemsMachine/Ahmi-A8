@@ -1,0 +1,1 @@
+These are my original Openscad files so you can edit these part to your hearts delight! Please forgive the atrocious coding habits. There are a number of things I have learned how to write better since I made this so many years ago, and a good portion of things I still suck at. Either way I hope these are useful to someone. :)
