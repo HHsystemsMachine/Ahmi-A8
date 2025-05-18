@@ -13,3 +13,10 @@ there are 7 printable jigs to help you line up your drill for semi acurate drill
 [online Openscad](https://theherrerahomestead.farm/go/ahmi-jigs) **# PLEASE NOTE! this is a link (that redirects through my website) to the file that can be edited in the browser**
 
 The 2040 Extrusion I get has holes in it that work best with either M5 or 10-32 taps
+
+
+## License
+
+![Creative Commons License](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
