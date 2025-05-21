@@ -1,3 +1,6 @@
+You can purchase the hardware without the frame [Here](https://theherrerahomestead.farm/product/ahmi-a8-hardware/)
+
+
 #### Anet A8 Frame Conversion kit
 
 | # Needed | Item                           | Have or Buy | Purchase link | Notes |
@@ -38,6 +41,8 @@
 | 2        | 440mm |             |               |       |
 | 2        | 340mm |             |               |       |
 | 3        | 313mm |             |               |       |
+
+You can purchase the precut frames without hardware [Here](https://theherrerahomestead.farm/product/ahmi-a8-frame/)
 
 Note: There are printable files for both 2020 and 2040 extrusion These extrusion cuts are aproximate. They can be within +-~2mm and you will be fine. These are just the measurements of the kits we sell. 
 
